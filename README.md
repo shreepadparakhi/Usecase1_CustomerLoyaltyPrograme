@@ -23,4 +23,10 @@ Danny has shared with you 3 key datasets for this case study:
 - members 
 
 ## Entity Relationship Diagram:
+![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/ERD.png?raw=true)
 
+## Table description:
+
+### Sales-
+The sales table captures all customer_id level purchases with a corresponding order date 
+and product_id information for when and what menu items were ordered.
