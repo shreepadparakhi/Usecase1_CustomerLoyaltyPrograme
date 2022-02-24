@@ -4,7 +4,8 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 ## Table of Contents
 1. [Problem Statement](##problem-statement)
 2. [Entity Relationship Diagram](##entity-relationship-diagram)
-3. [Case Study Questions](##case-study-questions)
+3. [Table Description](##table-description)
+4. [Case Study Questions](##case-study-questions)
 
 ## Problem Statement: 
 Danny wants to use the data to answer a few simple questions about his customers, especially 
@@ -43,3 +44,21 @@ item.
 The final members table captures the join_date when a customer_id joined the beta version of
 the Danny’s Diner loyalty program. 
 
+![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/Members.png?raw=true)
+
+## Case Study Questions-
+1) What is the total amount each customer spent at the restaurant? 
+2) How many days has each customer visited the restaurant? 
+3) What was the first item from the menu purchased by each customer? 
+4) What is the most purchased item on the menu and how many times was it purchased by all 
+customers? 
+5) Which item was the most popular for each customer? 
+6) Which item was purchased first by the customer after they became a member? 
+7) Which item was purchased just before the customer became a member? 
+8) What is the total items and amount spent for each member before they became a 
+member? 
+9) If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points 
+would each customer have? 
+10) In the first week after a customer joins the program (including their join date) they earn 
+2x points on all items, not just sushi - how many points do customer A and B have at the 
+end of January?
