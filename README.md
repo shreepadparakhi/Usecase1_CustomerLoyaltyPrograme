@@ -30,3 +30,10 @@ Danny has shared with you 3 key datasets for this case study:
 ### Sales-
 The sales table captures all customer_id level purchases with a corresponding order date 
 and product_id information for when and what menu items were ordered.
+
+![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/SalesTable.png?raw=true)
+
+### Menu-
+The menu table maps the product_id to the actual product_name and price of each menu 
+item. 
+
