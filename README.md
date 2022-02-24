@@ -37,3 +37,9 @@ and product_id information for when and what menu items were ordered.
 The menu table maps the product_id to the actual product_name and price of each menu 
 item. 
 
+![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/Menu.png?raw=true)
+
+### Members-
+The final members table captures the join_date when a customer_id joined the beta version of
+the Danny’s Diner loyalty program. 
+
