@@ -19,9 +19,9 @@ Danny has provided you with a sample of his overall customer data due to privacy
 he hopes that these examples are enough for you to write fully functioning SQL queries to help 
 him answer his questions! 
 Danny has shared with you 3 key datasets for this case study: 
-- sales 
-- menu 
-- members 
+- [Sales](###Sales)
+- [Menu](###Menu)
+- [Members](###Members)
 
 ## Entity Relationship Diagram:
 ![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/ERD.png?raw=true)
